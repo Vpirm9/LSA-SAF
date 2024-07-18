@@ -1,7 +1,7 @@
 # Following files will be ignored
 
 .ipynb_checkpoints
-img 
+#img 
 __pycache__
 *.txt
 *.log
