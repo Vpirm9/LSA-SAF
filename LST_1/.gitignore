@@ -1,0 +1,18 @@
+# Following files will be ignored
+
+.ipynb_checkpoints
+img 
+__pycache__
+*.txt
+*.log
+*.grb
+*.bz2
+*.h5
+*.csv
+*.db
+*.pdf
+*.docx
+*.swp
+*.pyc
+*.png
+Static_figs
